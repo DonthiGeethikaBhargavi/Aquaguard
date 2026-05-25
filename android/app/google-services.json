@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "674900992159",
+    "project_id": "anaravtechnologies-aquaguard",
+    "storage_bucket": "anaravtechnologies-aquaguard.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674900992159:android:81edaf3290560a009fc2aa",
+        "android_client_info": {
+          "package_name": "com.anaravtechnologies.aquaguard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEH3WdX-ANtVaihee97F9s0RfgrUIglzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
